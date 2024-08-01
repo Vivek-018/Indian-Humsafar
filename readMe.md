@@ -1,3 +1,3 @@
 # This is complete blog website
 
-# using Appwrite and React.js
+# using Appwrite and React.js and tailwindcss
